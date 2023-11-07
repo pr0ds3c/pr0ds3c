@@ -1,6 +1,6 @@
-# Hey there 👋
+# Hey there !
 
-I'm an Application Security Engineer with a passion for securing applications against modern threats and vulnerabilities. Looking to share my knowledge and give back what I know to the community.
+I'm an Application Security Engineer with a passion for securing applications against modern threats and vulnerabilities. Looking to share my knowledge and give back to the community!
 
 <!---
 pr0ds3c/pr0ds3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
